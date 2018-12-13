@@ -32,8 +32,8 @@ public class SingController {
     	
     	if(SingController.confirm) {
     	
-    	Singin.Menu.close();
-    	Singin.Menu2.show();
+    	Map.Menu.close();
+    	Map.Menu2.show();
     	
     	}
     	
