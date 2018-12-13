@@ -7,7 +7,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
  
-public class Singin extends Application {
+public class Map extends Application {
 
 		static Stage Menu;
 		static Stage Menu2;
