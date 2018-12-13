@@ -14,8 +14,8 @@ public class ShopController {
     
 	@FXML
     void Show(ActionEvent event) {
-    	Singin.Menu2.close();
-    	Singin.Menu3.show();
+    	Map.Menu2.close();
+    	Map.Menu3.show();
   	
     }
 	
