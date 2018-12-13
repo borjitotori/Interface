@@ -28,8 +28,8 @@ public class Books {
     
     @FXML
     void Back(ActionEvent event) {
-    	Singin.Menu4.close();
-    	Singin.Menu2.show();
+    	Map.Menu4.close();
+    	Map.Menu2.show();
 		list.clear();
 
     }
